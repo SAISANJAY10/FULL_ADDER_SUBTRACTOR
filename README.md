@@ -103,7 +103,7 @@ endmodule
 ```
 Developed by: SAI SANJAY R
 
-RegisterNumber: 212223040178
+Register Number: 212223040178
 
 **RTL Schematic**
 

@@ -52,6 +52,7 @@ FULL SUBTRACTOR:
 **Procedure**
 
 **Full Adder:**
+
 1.Open Quartus II and create a new project.
 
 2.Use schematic design entry to draw the full adder circuit. 
@@ -101,6 +102,7 @@ assign DIFF = a ^ b ^ Bin;
 endmodule
 ```
 Developed by: SAI SANJAY R
+
 RegisterNumber: 212223040178
 
 **RTL Schematic**
